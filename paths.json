@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/crosspath/:/",
-    "/content/crosspath/configuration:/.helix/config.json",
-    "/content/crosspath/metadata:/metadata.json"
+    "/content/crosswalk/:/",
+    "/content/crosswalk/configuration:/.helix/config.json",
+    "/content/crosswalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/crosspath/"
+    "/content/crosswalk/"
   ]
 }
